@@ -1,0 +1,8 @@
+There should be only 2 brackets.
+It should accept only brackets.
+Brackets should be in a pair.
+Open brackets must be closed with same type of closed brackets.
+It should retrun true only if entered same type of open and closed brackets.
+It should return false if entered same type of either open brackets or closed brackets.
+It should return false if entered different type of open and close brackets.
+It should return false if brackets are not in pair.
